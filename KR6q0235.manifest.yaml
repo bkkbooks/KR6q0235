@@ -1,0 +1,361 @@
+canonical_identifier: bkk:krp/KR6q0235/v1
+canonical_location: https://kanripo.org/bkk/KR6q0235/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 一貫別傳
+  identifiers:
+    alt_id:
+    - J40nB480
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J40/J40nB480.xml
+    old_id: J40nB480
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0235_000.yaml, hash: 'sha256:3471e96f2224dfe6454658257bc085142a68d22d72dde0fb2d268c28d77afa15'}
+  - {seq: 1, filename: KR6q0235_001.yaml, hash: 'sha256:4023125c729cb409061acf2977ba2a3764ddd4e8e4f641b64711258c0782467a'}
+  - {seq: 2, filename: KR6q0235_002.yaml, hash: 'sha256:e52eaea07cf02b04a2b1c899192fa5443fe56359de9b1951211fa9e2f283e98f'}
+  - {seq: 3, filename: KR6q0235_003.yaml, hash: 'sha256:8a3406b38292f727e82feb497902f040cd29af2592d235a95d7f7d51d89dd9b3'}
+  - {seq: 4, filename: KR6q0235_004.yaml, hash: 'sha256:6511226dd186bba5a9efffbe7de664d4e728bd77fbd5644cef67b2fc920afaa4'}
+  - {seq: 5, filename: KR6q0235_005.yaml, hash: 'sha256:7422d2a00cfd830305b4b9afbeb5ba94f7c889a0ccfe16920c23a078c3ec7636'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0235_000.markers.yaml, hash: 'sha256:92e4064c9d8ef99fcaf4e9c035e25cb8f76e216b5f8e6321bfda9f8038f310d6'}
+  - {seq: 1, role: markers, filename: assets/KR6q0235_001.markers.yaml, hash: 'sha256:5d592d1338e2b247ae32edc7518d91574fa21afb85b9ed4ee7382bdb09d6abbd'}
+  - {seq: 2, role: markers, filename: assets/KR6q0235_002.markers.yaml, hash: 'sha256:e37f2c664325da66b8e1149cf815546f09597da7dcce7b26f61d1e17e1cb29d4'}
+  - {seq: 3, role: markers, filename: assets/KR6q0235_003.markers.yaml, hash: 'sha256:35f0779500768057a7aa914dc58b943644a8f72fb73d64cb69c6881fcec5b5da'}
+  - {seq: 4, role: markers, filename: assets/KR6q0235_004.markers.yaml, hash: 'sha256:63af781ea93803bd3e5382d27ac5d3e577ed0a5d4ddc678c12c8aae93a07f7a4'}
+  - {seq: 5, role: markers, filename: assets/KR6q0235_005.markers.yaml, hash: 'sha256:588fb0ba1988e213227e9b08209c757e18cf06e9150f54e72b7e4b1cd1c13a23'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0235_J_000-mulu-1
+    span:
+    - front
+    - 310
+    - 310
+  label: 小引
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0235_J_000-mulu-2
+    span:
+    - front
+    - 514
+    - 514
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0235_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 9901
+  label: 一貫別傳卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0235_J_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 儒宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0235_J_001-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 引
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0235_J_001-mulu-3
+    span:
+    - body
+    - 250
+    - 250
+  label: 易經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0235_J_001-mulu-4
+    span:
+    - body
+    - 3301
+    - 3301
+  label: 學庸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0235_J_001-mulu-5
+    span:
+    - body
+    - 5241
+    - 5241
+  label: 論語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0235_J_001-mulu-6
+    span:
+    - body
+    - 8810
+    - 8810
+  label: 孟子
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0235_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 6320
+  label: 一貫別傳卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0235_J_002-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 玄宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0235_J_002-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 引
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0235_J_002-mulu-3
+    span:
+    - body
+    - 898
+    - 898
+  label: 道德經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0235_J_002-mulu-4
+    span:
+    - body
+    - 3487
+    - 3487
+  label: 南華經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0235_J_002-mulu-5
+    span:
+    - body
+    - 5419
+    - 5419
+  label: 文始經
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0235_J_003-juan-start
+    span:
+    - body
+    - 0
+    - 7847
+  label: 一貫別傳卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0235_J_003-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 釋宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0235_J_003-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 引
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0235_J_003-mulu-3
+    span:
+    - body
+    - 307
+    - 307
+  label: 心經
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0235_J_003-mulu-4
+    span:
+    - body
+    - 721
+    - 721
+  label: 金剛經
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0235_J_003-mulu-5
+    span:
+    - body
+    - 2921
+    - 2921
+  label: 彌陀經
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0235_J_003-mulu-6
+    span:
+    - body
+    - 3366
+    - 3366
+  label: 四十二章經
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0235_J_003-mulu-7
+    span:
+    - body
+    - 3796
+    - 3796
+  label: 維摩經
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0235_J_003-mulu-8
+    span:
+    - body
+    - 4958
+    - 4958
+  label: 楞伽經
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0235_J_003-mulu-9
+    span:
+    - body
+    - 6204
+    - 6204
+  label: 圓覺經
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0235_J_004-juan-start
+    span:
+    - body
+    - 0
+    - 15463
+  label: 一貫別傳卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0235_J_004-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 楞嚴經
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0235_J_005-juan-start
+    span:
+    - body
+    - 0
+    - 14051
+  label: 一貫別傳卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0235_J_005-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 法華經
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0235_J_005-mulu-2
+    span:
+    - body
+    - 5731
+    - 5731
+  label: 華嚴經
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0235_J_005-mulu-3
+    span:
+    - body
+    - 13583
+    - 13583
+  label: 跋語
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0235_J_005-mulu-4
+    span:
+    - body
+    - 13825
+    - 13825
+  label: 跋
+  type: mulu
+  level: 1
+hash: sha256:e55bf4edf15758c506bc5a5b1c7aabe79df950c2b416675ddf06ca98642353d0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
