@@ -21,14 +21,14 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0235_000.yaml, hash: 'sha256:c4ace1a9d6f9d5b48db0cbe10e7a77e1de6f20ce1d3b9b53900f31c3d5317cdf'}
+  - {seq: 0, filename: KR6q0235_000.yaml, hash: 'sha256:c8bc1aa3c5aa7cfca0ddfb6d24d0160affb5c3ffb418260d215afdcdcea120ec'}
   - {seq: 1, filename: KR6q0235_001.yaml, hash: 'sha256:769de935b53c2c500159e2cbacaa1d434ace2031d201c433db8fef0b33636896'}
   - {seq: 2, filename: KR6q0235_002.yaml, hash: 'sha256:55aed3fbd96bffa7817acda6f83a28627fcbea0a37d2873615639cc5f46d71c2'}
   - {seq: 3, filename: KR6q0235_003.yaml, hash: 'sha256:8c138b691f68156b3e4785ade04f2fa5127c3b59cee5a4e3d078a3ad281ce40d'}
   - {seq: 4, filename: KR6q0235_004.yaml, hash: 'sha256:597f4cbc90f1291401c047b04699ceae82a7ae4a8e73c3513815e4092cd6fe3d'}
   - {seq: 5, filename: KR6q0235_005.yaml, hash: 'sha256:2fc9b250e833f96420f428119f10b27f1d5ca1877cd6b18e6ede02673213488d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0235_000.markers.yaml, hash: 'sha256:7020a24376343f8a00a3eb44038a36d7ce8f1a59ae7e71e0353ad25d8c6476c7'}
+  - {seq: 0, role: markers, filename: assets/KR6q0235_000.markers.yaml, hash: 'sha256:f53b048b03a107ffbbb57750cc6d58d9668ae0d406e1cc7afc85965271db9436'}
   - {seq: 1, role: markers, filename: assets/KR6q0235_001.markers.yaml, hash: 'sha256:070c6943e0d67658ac7b244636ea6325639768487364976f9b3575c0eef564cd'}
   - {seq: 2, role: markers, filename: assets/KR6q0235_002.markers.yaml, hash: 'sha256:7e42cf084885c6e05fe9718ed470b52337b91169760cea76dcc2a5e67dc627c9'}
   - {seq: 3, role: markers, filename: assets/KR6q0235_003.markers.yaml, hash: 'sha256:6d868ffb1577ea3e2b3d77d2a47c7db305854fcb554bf11c77718f90acd894a2'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0235_J_000-mulu-1
     span:
-    - front
+    - body
     - 310
     - 310
   label: 小引
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0235_J_000-mulu-2
     span:
-    - front
+    - body
     - 514
     - 514
   label: 目錄
@@ -355,7 +355,7 @@ table_of_contents:
   label: 跋
   type: mulu
   level: 1
-hash: sha256:bfb0ee05b5ab43f4122feaf9e09de87dfe37b2ed7924954ec1b3105427b7e96a
+hash: sha256:61436391654b359671425e7dfac94ed4b3c7c088f22525c2f2574f41a8404967
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

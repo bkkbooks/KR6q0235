@@ -19,14 +19,14 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0235_000-J.yaml, hash: 'sha256:c3faa40f50897fe216cd11f25ccd6d80405165721024e57e629afd049b501ba3'}
+  - {seq: 0, filename: KR6q0235_000-J.yaml, hash: 'sha256:a5ba79b6e4d56f187fabafcef0c2f218c2b5100e445e067e827da17805eaeef7'}
   - {seq: 1, filename: KR6q0235_001-J.yaml, hash: 'sha256:78fe2686e6d3368c83b1d9e00988da71c6fa28cffd8dc55fdbca6d87f3eea4f0'}
   - {seq: 2, filename: KR6q0235_002-J.yaml, hash: 'sha256:bb0b6f0d6c1cafb7b4819ebf95f07762ec9d381b3306f117c0022ffd0a04c70e'}
   - {seq: 3, filename: KR6q0235_003-J.yaml, hash: 'sha256:05996b18144216d2b8ef934675d75f6826df03bead00e146ecf4cc6499a71a28'}
   - {seq: 4, filename: KR6q0235_004-J.yaml, hash: 'sha256:bac121173c20cc10b2ab9ad9596e2346c6c45268570066b7825baee39b977641'}
   - {seq: 5, filename: KR6q0235_005-J.yaml, hash: 'sha256:d13a4963382e3b428a776360e00543b4d0b509fd84e1cb9baeaa17f26bd30f2c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0235_000-J.markers.yaml, hash: 'sha256:ea2b51b568a9abfbfb3dd8e5a1d45a499657b5fddc9be6f1fa44a14c696b1cbe'}
+  - {seq: 0, role: markers, filename: assets/KR6q0235_000-J.markers.yaml, hash: 'sha256:a071d50eaaf6b777cc8fe01d92e827d687d78d17169b7681d8e217d612a58198'}
   - {seq: 1, role: markers, filename: assets/KR6q0235_001-J.markers.yaml, hash: 'sha256:61a79e380df426bf7e06076db2b69810e0661e8b242c237dca2859213ead8b04'}
   - {seq: 2, role: markers, filename: assets/KR6q0235_002-J.markers.yaml, hash: 'sha256:f02dd1a406608730d122b56a80e2b9c70835c5becfb5cd69842bb39c321c1b76'}
   - {seq: 3, role: markers, filename: assets/KR6q0235_003-J.markers.yaml, hash: 'sha256:86eea04bc2540063f4632e930e8437f535fcfe38b360cd2d121219f44bcbc942'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0235_J_000-mulu-1
     span:
-    - front
+    - body
     - 310
     - 310
   label: 小引
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0235_J_000-mulu-2
     span:
-    - front
+    - body
     - 514
     - 514
   label: 目錄
@@ -353,4 +353,4 @@ table_of_contents:
   label: 跋
   type: mulu
   level: 1
-hash: sha256:1511e913a1fa2b59ccb192fa151d126967cb9bbef970b52421b11bde8d0dbf3d
+hash: sha256:fdd873415342e1ba06894780dabeaec099b0442bd1bb2da74b6a9bd33797ca05
